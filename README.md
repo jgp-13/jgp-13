@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jgp-13
 - 👀 I’m interested in Clean Energies, Data Science, Aeronautics, E-Mobility.
-- 🌱 I’m currently learning Data Science with Coursera.
-- 💞️ I’m looking to collaborate on Renewable energies.
+- 🌱 I’m currently certifying my Data Science skills with IBM Skills Network.
+- 💞️ I’m looking to collaborate on E-mobility and Renewable energies.
 - 📫 How to reach me primary in email.
 
 <!---
