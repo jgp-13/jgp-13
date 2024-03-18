@@ -1,4 +1,4 @@
-👋 Hi, I’m Josue Gomez Parada (Josue)
+👋 Hi, I’m Josue **Gomez Parada** 
 
 👀 I’m interested in Clean Energies, Data Science, Aeronautics, and E-Mobility.
 
