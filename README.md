@@ -6,7 +6,7 @@
 
 💼 I am a Mechanical Engineer with a PhD in aerodynamics, specializing in aircraft propulsion, power generation, and clean energies. I possess extensive experience in research and development projects, collaborating across multifunctional and multicultural teams.
 
-🔍 I possess expertise in the application of **Python** and **Data Analysis** methodologies to Computational Fluid Dynamics (**CFD**) simulation. I have a strong interest in leveraging data analysis and machine learning techniques to drive advancements in engineering solutions.
+🔍 I possess expertise in the application of **Python** and **Data Analysis** methodologies to Computational Fluid Dynamics (**CFD**) simulation. I am deeply interested in applying data analysis and machine learning techniques to advance engineering solutions.
 
 💡 I’m looking to collaborate on projects related to E-mobility and Renewable energies, where I can leverage my skills and contribute to driving innovation and sustainability.
 
