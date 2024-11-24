@@ -2,7 +2,7 @@
 
 👀 I’m interested in Clean Energies, Data Science, Aeronautics, and E-Mobility.
 
-🌱 When I'm not in a paid position, I dedicate my time to furthering my skills in **Data Science** and **Python** programming through competitions and learning courses on platforms like Coursera, Kaggle, and LinkedIn. Currently, I am actively honing my skills by participating in Data Science competitions online.
+🌱 When I'm not in a paid position, I dedicate my time to furthering my skills in **Data Analysis** and **Python** programming through competitions and learning courses on platforms like DataCamp, Coursera, Kaggle, and LinkedIn. Currently, I am actively honing my skills by participating in Data Science competitions online.
 
 💼 I am a Mechanical Engineer with a PhD in aerodynamics, specializing in aircraft propulsion, power generation, and clean energies. I possess extensive experience in research and development projects, collaborating across multifunctional and multicultural teams.
 
