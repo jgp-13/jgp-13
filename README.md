@@ -1,16 +1,27 @@
-👋 Hi, I’m Josue **Gomez Parada**  (Josue)
+# 👋 Hi, I'm Josue **Gomez Parada**
 
-👀 I’m interested in Clean Energies, Data Science, Aeronautics, and E-Mobility.
+## About Me
+I am a Data Analyst passionate about transforming raw data into meaningful insights through visualization and analysis. With a strong foundation in data cleaning and visualization, I help organizations make data-driven decisions.
 
-🌱 When I'm not in a paid position, I dedicate my time to furthering my skills in **Data Analysis** and **Python** programming through competitions and learning courses on platforms like DataCamp, Coursera, Kaggle, and LinkedIn. Currently, I am actively honing my skills by participating in Data Science competitions online.
+## 🎯 Expertise
+- **Data Analysis**: Proficient in Python and SQL for data manipulation, analysis, and visualization
+- **Tools & Technologies**: Python, Tableau, PostgreSQL
+- **Certifications**: DataCamp certified in Data Analysis with Python and SQL
+- **Completed Tracks**: Data Analysis in Python, SQL, and Tableau on DataCamp
 
-💼 I am a Mechanical Engineer with a PhD in aerodynamics, specializing in aircraft propulsion, power generation, and clean energies. I possess extensive experience in research and development projects, collaborating across multifunctional and multicultural teams.
+## 🌱 Current Focus
+I'm actively developing my data analysis portfolio on GitHub, focusing on projects that demonstrate:
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Interactive data visualizations
+- Dashboard creation in Tableau
 
-🔍 I possess expertise in the application of **Python** and **Data Analysis** methodologies to Computational Fluid Dynamics (**CFD**) simulation. I am deeply interested in applying data analysis and machine learning techniques to advance engineering solutions.
+## 💡 Looking to Collaborate
+I'm interested in collaborating on data analysis projects where I can leverage my visualization and data cleaning expertise to derive meaningful insights.
 
-💡 I’m looking to collaborate on projects related to E-mobility and Renewable energies, where I can leverage my skills and contribute to driving innovation and sustainability.
-
-📫 How to reach me: [josue.gomez.parada@gmail.com](mailto:josue.gomez.parada@gmail.com)
+## 📫 Connect With Me
+- Email: [josue.gomez.parada@gmail.com](mailto:josue.gomez.parada@gmail.com)
+- DataCamp: [josuegomezparada](https://www.datacamp.com/portfolio/josuegomezparada)
 
 <!---
 jgp-13/jgp-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
