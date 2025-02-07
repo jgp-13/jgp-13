@@ -21,6 +21,7 @@ I'm interested in collaborating on data analysis projects where I can leverage m
 
 ## 📫 Connect With Me
 - Email: [josue.gomez.parada@gmail.com](mailto:josue.gomez.parada@gmail.com)
+- LinkedIn: [dr-jgp](https://www.linkedin.com/in/dr-jgp)
 - DataCamp: [josuegomezparada](https://www.datacamp.com/portfolio/josuegomezparada)
 
 <!---
