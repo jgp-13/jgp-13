@@ -19,10 +19,14 @@ I'm actively developing my data analysis portfolio on GitHub, focusing on projec
 ## 💡 Looking to Collaborate
 I'm interested in collaborating on data analysis projects where I can leverage my visualization and data cleaning expertise to derive meaningful insights.
 
-## 📫 Connect With Me
-- Email: [josue.gomez.parada@gmail.com](mailto:josue.gomez.parada@gmail.com)
-- LinkedIn: [dr-jgp](https://www.linkedin.com/in/dr-jgp)
-- DataCamp: [josuegomezparada](https://www.datacamp.com/portfolio/josuegomezparada)
+## 📫 Contact  
+
+- **Author**: Josué Gómez Parada  
+- **Email**: josue[dot]gomez[dot]parada[at]gmail[dot]com
+- **LinkedIn**: [dr-JGP](https://www.linkedin.com/in/dr-jgp)  
+- **GitHub**: [jgp-13](https://github.com/jgp-13)  
+- **Tableau Public**: [Visualisations & Reports](https://public.tableau.com/app/profile/josue.gomez.parada/)  
+- **Website**: [Portfolio & Background](https://public.tableau.com/app/profile/josue.gomez.parada/)  
 
 <!---
 jgp-13/jgp-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
