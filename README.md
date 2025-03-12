@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Josue **Gomez Parada**
+# 👋 Hi, I'm Josue
 
 ## About Me
 I am a Data Analyst passionate about transforming raw data into meaningful insights through visualization and analysis. With a strong foundation in data cleaning and visualization, I help organizations make data-driven decisions.
