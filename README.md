@@ -23,9 +23,9 @@ I'm interested in collaborating on data analysis projects where I can leverage m
 
 - **Author**: Josué Gómez Parada  
 - **Email**: josue[dot]gomez[dot]parada[at]gmail[dot]com
-- **LinkedIn**: [dr-JGP](https://www.linkedin.com/in/dr-jgp)  
+- **LinkedIn**: [josuegomezparada](https://www.linkedin.com/in/josuegomezparada)  
 - **GitHub**: [jgp-13](https://github.com/jgp-13)  
-- **Tableau Public**: [Visualisations & Reports](https://public.tableau.com/app/profile/josue.gomez.parada/)  
+- **Tableau Public**: [josuegomezparada](https://public.tableau.com/app/profile/josuegomezparada/)  
 - **Website**: [Portfolio & Background](https://public.tableau.com/app/profile/josue.gomez.parada/)  
 
 <!---
