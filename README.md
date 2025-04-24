@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Josué
 
 ## About Me
-I’m a Data Analyst and aspiring Data Scientist with a passion for transforming raw data into clear, compelling insights. With a strong foundation in data wrangling, visualisation, and interpretation, I help organisations make smarter, data-informed decisions.
+I’m a Data Analyst and Data Scientist with a passion for transforming raw data into clear, compelling insights. With a strong foundation in data wrangling, visualisation, and interpretation, I help organisations make smarter, data-informed decisions.
 
 ## 🎯 Core Expertise – Data Analysis
 - **Data Exploration & Cleaning**: Skilled in transforming messy datasets into analysis-ready formats using Python (pandas, NumPy) and SQL  
